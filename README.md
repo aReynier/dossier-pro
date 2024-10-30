@@ -34,15 +34,18 @@
 
 ### 2. Gestion de projet
 #### Méthodologie du projet
+- Méthode Agile
+- Cadre de travail et outils(Jira)
+- Rôles et responsabilité
 
-#### Outil de gestion de projet
-- Jira
 #### Planning et suivi
+- Etapes du projet
+- planning et suivi (ex. burndown chart)
 
 ### 3. La partie conception
 #### Maquettes et prototypes
-- Wireframe
-- Maquette
+- Wireframes
+- Maquettes
 #### Spécifications fonctionnelles
 #### Use case
 #### RBAC
@@ -57,7 +60,7 @@
 - Templates pour issues et PR
 - Guides de contribution
 #### Structure du code source
-##### Composants métiers
+- Composants métiers
 #### Documentation API
 #### Les interfaces utilisateur
 #### Plans de test
@@ -65,6 +68,10 @@
 - Tests d'intégration
 - Tests end-to-end
 #### Procédures de sécurisation
+- Défense en profondeur
+- Réduction de la surface d'attaque
+- Politique de moindre privilège
+- RGPD
 
 ### 4. La partie déploiement
 #### Documentation DevOps
