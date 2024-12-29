@@ -62,7 +62,7 @@
 
 ### 4. La partie développement
 #### Configuration de l'environnement de travail pour le projet
-- [Mise en place des branches (dev, main, features)](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-01-branchs-configuration.md)
+- [Mise en place du dépôt et des branches (dev, main, features)](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-01-branchs-configuration.md)
 - [Configuration des workflows CI/CD](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-02-ci-cd-workflow-configuration.md)
 - [Templates pour issues et PR](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-03-pr-and-issues-templates.md)
 - [Guides de contribution](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-04-contribution-guides.md)
