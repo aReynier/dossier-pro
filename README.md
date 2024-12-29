@@ -73,18 +73,18 @@
 - Politique de moindre privilège
 - RGPD
 
-### 4. La partie déploiement
+### 5. La partie déploiement
 #### Documentation DevOps
 #### Procédures de déploiement
 #### Maintenance applicative
          
-### 5. Configuration du repository du projet Fil Rouge
+### 6. Configuration du repository du projet Fil Rouge
 #### Mise en place des branches (dev, main, features)
 #### Configuration des workflows CI/CD
 #### Templates pour issues et PR
 #### Guides de contribution
 
-### 6. Veille technologique et sécurité
+### 7. Veille technologique et sécurité
 - Vulnérabilités de sécurité rencontrées
 - Failles corrigées
 - Sources
