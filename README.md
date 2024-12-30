@@ -49,8 +49,11 @@
 - [Maquettes](./01-common-thread/01-03-conception/01-03-01-model-and-prototype/01-03-01-02-model.md)
 #### Spécifications fonctionnelles
 - [Spécifications fonctionnelles](./01-common-thread/01-03-conception/01-03-02-functional-specification/01-03-02-01-functional-specification.md)
+#### Règles de gestions
+- [Règles de gestions](./01-common-thread/01-03-conception/01-03-03-managment-rules/01-03-03-01-managment-rules.md)
 #### Use case
 - [Use case](./01-common-thread/01-03-conception/01-03-03-use-case/01-03-03-01-use-case.md)
+### Règles de gestion
 #### RBAC
 - [RBAC](./01-common-thread/01-03-conception/01-03-04-rbac/01-03-04-01-rbac.md)
 #### Merise
