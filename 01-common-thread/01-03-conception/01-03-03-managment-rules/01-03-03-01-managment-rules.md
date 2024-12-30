@@ -2,6 +2,8 @@
 
 Voici les règles de gestion du client dans le cadre du bot onboarding.
 
+A la suite de l'écriture des règles de gestion, il est aisé de transformer ces règles en user stories. L'écriture des règles de gestion aide à prédécouper les tâches.
+
 # Règles de gestion
 
 Les règles de gestion d'un bot ont pour but de rassembler l'ensemble de ses fonctionnalités et les règles qui y sont associées. Vous trouverez donc ci-dessous les règles de gestions du bot onboarding.
