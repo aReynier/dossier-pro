@@ -2,7 +2,7 @@
 ## Introduction
 - [Présentation de l'apprenant](./00-introduction/00-01-presentation.md)
 - [Objectifs du dossier](./00-introduction/00-02-folder-purposes.md)
-- [Liste des compétences](./00-introduction/00-03-skills-listing.md)
+- [Liste des compétences couvertes](./00-introduction/00-03-skills-listing.md)
 
 # Table des matières
 ## I. Projet fil rouge 
