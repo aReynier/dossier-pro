@@ -1,7 +1,7 @@
 # Etapes du projet
 
-Le projet est constitué de plusieurs étapes:
-- Formulation des besoins du client
-- Conception
-- Développement
+Le projet se décompose en plusieurs étapes clés :
+- Formulation des besoins du client (Septembre-octobre)
+- Conception(octobre-janvier)
+- Développement(janvier-)
 - Réalisation de documents pour former l'utilisateur au nouvel outil
