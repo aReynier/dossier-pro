@@ -1,0 +1,2 @@
+# Présentation de l'apprenant
+De formation initiale en arts et graphisme print, avec 2 ans d'expérience en graphisme print et signalétique, j'ai développé des compétences en conception visuelle et communication. Aujourd'hui, je mets à profit ce bagage dans le développement, notamment lors des phases de maquettage.
