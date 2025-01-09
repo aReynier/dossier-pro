@@ -1,8 +1,16 @@
 # Spécifications fonctionnelles/ exigences fonctionnelles et non fonctionnelles
 
-Une exigence fonctionnnelle est un énoncé, liée à la fonction principale ou au comportement attendu du système. Pour les rédiger, nous avons employé des phrases courtes, sui annoncent sans détour une ou plusieurs fonctionnalité. POur plus de cohérence nous avons employé un formalisme précis: l'<objet> doit <verbe a linfinitif><fonctionnalité>.
-Les exgiences non fonctionnelles, bien qu'elles aient le même formatage, énonces des parties différentes, il ne s'agit pas de fonctionnalité pure, mais plutot de la manière dont la fonctionnalité doit se comporter. Ce comportement décrit ici se focalise sur la sécurité, performance, ergonomie et disponibilité.
-Ces énoncé nous servent de bases aux étapes suivantes.
+Une exigence fonctionnelle est un énoncé lié à la fonction principale ou au comportement attendu du système. Pour rédiger ces exigences, nous avons adopté un style concis, utilisant des phrases courtes qui expriment clairement une ou plusieurs fonctionnalités. Afin d’assurer une cohérence dans notre travail, nous avons appliqué un formalisme précis :  
+
+**<objet> doit <verbe à l’infinitif> <fonctionnalité>.**  
+
+En complément, les **exigences non fonctionnelles**, bien que rédigées dans un format similaire, portent sur des aspects différents. Elles ne décrivent pas directement une fonctionnalité, mais plutôt la manière dont cette fonctionnalité doit se comporter. Ces exigences se concentrent sur des critères tels que :  
+- **Sécurité** : Assurer la protection des données et des utilisateurs.  
+- **Performance** : Garantir des temps de réponse et une efficacité optimale.  
+- **Ergonomie** : Rendre l’interface simple, intuitive et agréable à utiliser.  
+- **Disponibilité** : Maintenir le système opérationnel à tout moment.  
+
+Ces énoncés servent de base à toutes les étapes ultérieures du projet, en guidant la conception, le développement et les tests.  
 
 ## Exigences fonctionnelles
 
