@@ -1,5 +1,4 @@
 # Présentation du service du client
-
 ### Présentation du service  
 
 Le projet **"Serveur Discord Communautaire Simplon"**, initié pour Simplon Hauts-de-France (HDF), s’inscrit pleinement dans les objectifs stratégiques de Simplon. Il vise non seulement à améliorer le fonctionnement interne, mais également à renforcer le rayonnement extérieur de l’organisme, tout en offrant aux alumni une plateforme pour tisser un réseau Simplon dynamique et pérenne.  
