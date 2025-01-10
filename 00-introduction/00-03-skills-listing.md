@@ -1,6 +1,8 @@
 # Compétences couvertes
 Les compétences couvertes sont les suivantes:
 
+![Liste des compétences du REAC](../000-assets/skills-listing.png)
+
 - 1 Développer une application sécurisée
     - 1 Installer et configurer son environnement de travail en fonction du projet
     - 2 Développer des interfaces utilisateur
