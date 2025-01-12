@@ -1,9 +1,10 @@
 # Objectifs principaux
+(partie qui se répète probablement)
 
-Les besoins précedemment énoncés, mettent en lumière les objectifs stratégiques du projet. Il s'agit d'allier performance technique et convivialité afin de renforcer l’efficacité de la communication interne et la cohésion de la communauté Simplon. Ce projet vise à répondre aux attentes des apprenants actuels. Il intégre également les alumni avec la volonté de créer un véritable réseau dynamique et durable. 
-
-----
-
+-----
+---
+--------------------------
+Texte initial
 
 ## Objectifs stratégiques
 

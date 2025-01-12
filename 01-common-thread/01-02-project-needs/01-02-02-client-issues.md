@@ -1,5 +1,41 @@
 # Les enjeux du client
+Les enjeux liés à l’utilisation du serveur Discord pour Simplon sont nombreux et essentiel pour assurer son bon fonctionnement. Ils sont d'un importance majeure car il s'agit de la plate-forme de communication centrale de cet organisme de formation:
+- **Conserver une image professionnelle:** Il est essentiel que le serveur Discord reflète le sérieux et la fiabilité de Simplon, tout en restant accessible et convivial pour la communauté.
+- **Rendre le réseau facile à administrer:** Il est crucial que la gestion du serveur Discord soit simplifiée pour l'équipe pédagogique, administrative et la direction, afin de garantir un fonctionnement fluide et sans surcharge de travail.
+- **Faciliter la communication entre tous les acteurs de Simplon:** Le serveur Discord doit permettre à tous les membres de l’écosystème de Simplon (apprenants, formateurs, équipe administrative et direction) de communiquer facilement et efficacement, renforçant ainsi la collaboration et l’engagement.
+- **Animer un réseau communautaire dynamique:** L’objectif est de créer un environnement interactif, propice à l’entraide, où les membres se sentent engagés et encouragés à participer activement à la vie de la communauté.
+- **Assurer la rétention des alumni sur la plateforme:** Le défi est de maintenir l'intérêt des anciens apprenants, en leur offrant des fonctionnalités et des interactions continues qui renforcent leur sentiment d'appartenance à la communauté.
 
+La partie sur laquelle j'ai travaillé, la partie **onboarding** n'échappe pas à ces enjeux.
+
+# Opportunités
+Si sa conception est effective, un ensemble d'aaliorations est possible:
+
+### Développement et amélioration
+
+**Création de nouveaux bots :** Le développement de bots sur Discord permettrait d'automatiser certaines tâches et d'enrichir l'expérience des utilisateurs, comme la gestion d'événements ou la distribution d'informations.
+
+**Amélioration des bots existants :** Travailler sur l’optimisation des bots déjà en place pour les rendre plus efficaces et adaptés aux besoins des utilisateurs peut améliorer considérablement l’interaction au sein de la plateforme.
+
+**Exploration de l’open-source :** En adoptant une approche open-source, Simplon pourrait développer des solutions sur mesure, attirant d'autres organismes à utiliser ces outils et augmentant ainsi son influence au-delà de son réseau.
+
+### Expansion
+
+**Proposition à d'autres organismes :** Ce projet pourrait également être proposé à d'autres antennes de Simplon ou à des organismes de formation, favorisant des collaborations et un partage de bonnes pratiques.
+
+### Engagement communautaire
+
+**Participation à des événements :** L'organisation ou la participation à des événements (conférences, hackathons, événements Coding Games) peut renforcer la visibilité et la notoriété de Simplon, tout en créant des opportunités de networking pour les apprenants.
+
+**Développement d'un bot dédié au mentorat :** Un bot pour faciliter le mentorat pourrait offrir aux anciens apprenants la possibilité de s'impliquer et d'aider les nouveaux, favorisant un esprit de communauté et de soutien.
+
+**Demande de mentorat aux anciens apprenants :** La possibilité de solliciter les anciens pour devenir mentors permettrait d’enrichir l’expérience des nouveaux apprenants et de créer des liens entre les différentes promotions.
+
+
+-----
+---
+--------------------------
+# texte initial
 ## Les enjeux du client sur son secteur
 
 ### Répondre aux besoins du marché
@@ -123,3 +159,26 @@ Attirer de nouveaux membres tout en fidélisant ceux déjà présents est **esse
 En cultivant un environnement accueillant et engageant, nous veillons à ce que chaque membre se sente valorisé et impliqué dans notre dynamique collective. 
 Une base d'utilisateurs diversifiée et engagée est cruciale pour garantir une croissance durable et dynamique.
 Ces enjeux sont donc **déterminants** pour assurer le développement harmonieux et durable de la communauté Simplon, en créant un espace où chacun peut s'épanouir tout en contribuant au succès collectif.
+
+------
+## Les opportunités
+
+### Développement et amélioration
+
+**Création de nouveaux bots :** Le développement de bots sur Discord permettrait d'automatiser certaines tâches et d'enrichir l'expérience des utilisateurs, comme la gestion d'événements ou la distribution d'informations.
+
+**Amélioration des bots existants :** Travailler sur l’optimisation des bots déjà en place pour les rendre plus efficaces et adaptés aux besoins des utilisateurs peut améliorer considérablement l’interaction au sein de la plateforme.
+
+**Exploration de l’open-source :** En adoptant une approche open-source, Simplon pourrait développer des solutions sur mesure, attirant d'autres organismes à utiliser ces outils et augmentant ainsi son influence au-delà de son réseau.
+
+### Expansion
+
+**Proposition à d'autres organismes :** Ce projet pourrait également être proposé à d'autres antennes de Simplon ou à des organismes de formation, favorisant des collaborations et un partage de bonnes pratiques.
+
+### Engagement communautaire
+
+**Participation à des événements :** L'organisation ou la participation à des événements (conférences, hackathons, événements Coding Games) peut renforcer la visibilité et la notoriété de Simplon, tout en créant des opportunités de networking pour les apprenants.
+
+**Développement d'un bot dédié au mentorat :** Un bot pour faciliter le mentorat pourrait offrir aux anciens apprenants la possibilité de s'impliquer et d'aider les nouveaux, favorisant un esprit de communauté et de soutien.
+
+**Demande de mentorat aux anciens apprenants :** La possibilité de solliciter les anciens pour devenir mentors permettrait d’enrichir l’expérience des nouveaux apprenants et de créer des liens entre les différentes promotions.

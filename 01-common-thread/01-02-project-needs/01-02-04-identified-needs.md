@@ -13,5 +13,8 @@ Le client a exprimé plusieurs besoins clés concernant l’utilisation des bots
 
 3. **Création d’un espace convivial**  
    - Rendre le serveur Discord plus accueillant et dynamique pour la communauté.  
+   - Echanges facilités entre les différents actuers de la plate-frome: étudiants, formateurs, équipe administrative et de direction.
    - Développer des fonctionnalités favorisant l’interaction, l’entraide et le sentiment d’appartenance entre les membres.  
    - Introduire des éléments de **gamification**, tels que des systèmes de récompenses, des classements ou des défis, pour encourager l’engagement des utilisateurs et rendre l’expérience plus ludique.  
+
+   Mis à part la partie gamification qui sera du ressort du bot community, la plupart de ces besoins devront également être pris en compte pour le bot **onboarding**.
