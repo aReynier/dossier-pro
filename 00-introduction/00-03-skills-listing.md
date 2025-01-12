@@ -19,7 +19,3 @@ Les compétences couvertes sont les suivantes:
     - 9 Préparer et exécuter les plans de tests d’une application
     - 10 Préparer et documenter le déploiement d'une application
     - 11 Contribuer à la mise en production dans une démarche DevOps
-
-Le projet de bot Discord couvre les compétences suivantes:
-
-Tandis que le second projet couvre les compétences suivantes:
