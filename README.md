@@ -6,17 +6,18 @@
 
 # Table des matières
 ## I. Projet fil rouge 
-### 1. Expression des besoins des projets
-#### Contexte et enjeux
+### 1. Présentation de l'entreprise et du service
 - [Présentation du client](./01-common-thread/01-01-project-needs/01-01-01-context-and-issues/01-01-01-01-client-presentation.md)
 - [Présentation de son service](./01-common-thread/01-01-project-needs/01-01-01-context-and-issues/01-01-01-02-service-presentation.md)
+### 2. Expression des besoins des projets/cahier des charges
+- [Le contexte]
 - [Les enjeux du client](./01-common-thread/01-01-project-needs/01-01-01-context-and-issues/01-01-01-03-client-issues.md)
-#### Problématiques et besoins du projet
 - [Problématiques](./01-common-thread/01-01-project-needs/01-01-02-problematic-and-project-needs/01-01-02-01-problematics.md)
 - [Besoins Identifiés](./01-common-thread/01-01-project-needs/01-01-02-problematic-and-project-needs/01-01-02-02-identified-needs.md)
 - [Objectifs Prioritaires](./01-common-thread/01-01-project-needs/01-01-02-problematic-and-project-needs/01-01-02-03-primary-objectives.md)
+- [Personas](./01-common-thread/01-01-project-needs/01-01-02-problematic-and-project-needs/01-01-02-04-personas.md)
 
-### 2. Gestion de projet
+### 3. Gestion de projet
 #### Méthodologie du projet
 - [Méthode Agile](./01-common-thread/01-02-project-management/01-02-01-project-methology/01-02-01-01-agile-method.md)
 - [Cadre de travail et outils(Jira)](./01-common-thread/01-02-project-management/01-02-01-project-methology/01-02-01-02-tools-and-work-environment.md)
@@ -25,7 +26,7 @@
 - [Etapes du projet](./01-common-thread/01-02-project-management/01-02-02-planning-and-tracking/01-02-02-01-project-steps.md)
 - [planning et suivi (ex. burndown chart)](./01-common-thread/01-02-project-management/01-02-02-planning-and-tracking/01-02-02-02-tracking-and-planning.md)
 
-### 3. La partie conception
+### 4. La partie conception
 #### Spécifications fonctionnelles
 - [Spécifications fonctionnelles](./01-common-thread/01-03-conception/01-03-01-functional-specification/01-03-02-01-functional-specification.md)
 #### Livrables attendus
@@ -71,7 +72,7 @@
 - [Politique de moindre privilège](./01-common-thread/01-03-conception/01-03-13-securing-strategy/01-03-13-03-less-privilege-policy.md)
 - [RGPD](./01-common-thread/01-03-conception/01-03-13-securing-strategy/01-03-13-04-rgpd.md)
 
-### 4. La partie développement
+### 5. La partie développement
 #### Configuration de l'environnement de travail pour le projet
 - [Mise en place du dépôt et des branches (dev, main, features)](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-01-branchs-configuration.md)
 - [Configuration des workflows CI/CD](./01-common-thread/01-04-development/01-04-01-work-environment-setting/01-04-01-02-ci-cd-workflow-configuration.md)
@@ -92,7 +93,7 @@
 - [Tests d'intégration](./01-common-thread/01-04-development/01-04-07-test-plan/01-04-07-02-integration-tests.md)
 - [Tests end-to-end](./01-common-thread/01-04-development/01-04-07-test-plan/01-04-07-03-e-2-e-tests.md)
 
-### 5. La partie déploiement
+### 6. La partie déploiement
 #### Documentation DevOps
 - [Documentation DevOps](./01-common-thread/01-05-deployment/01-05-01-devops-documentation/01-05-01-01-devops-documentation.md)
 #### Procédures de déploiement
@@ -100,7 +101,7 @@
 #### Maintenance applicative
 - [Maintenance applicative](./01-common-thread/01-05-deployment/01-05-03-application-maintenance/01-05-03-01-application-maintenance.md)
 
-### 6. Veille technologique et sécurité
+### 7. Veille technologique et sécurité
 - [Vulnérabilités de sécurité rencontrées](./01-common-thread/01-06-technological-security-watch/01-06-01-security-vulnerabilities.md)
 - [Failles corrigées](./01-common-thread/01-06-technological-security-watch/01-06-02-vulnerabilities-corrected.md)
 - [Sources](./01-common-thread/01-06-technological-security-watch/01-06-03-sources.md)
